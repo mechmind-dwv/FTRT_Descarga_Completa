@@ -88,6 +88,7 @@ Autores: Benjamin Cabeza Duran / DeepSeek
 Contacto: ia.mechmind@gmail.com
 Repositorio: github.com/mechmind-dwv/HelioFisica-FTRT
 Licencia: Creative Commons Attribution 4.0 International
+
 🎯 PRÓXIMOS PASOS RECOMENDADOS
 
     Instalar y probar el sistema
